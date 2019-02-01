@@ -2,7 +2,7 @@
 
 Some clear and simple sample to understand about Azure Storage Blob using C# 
 
-Blog Detail : 
+# Detail : 
 
  Azure Storage Blob 手把手從頭開始 - 建立 Container : http://no2don.blogspot.com/2019/01/cnet-core-azure-storage-blob.html
  
